@@ -1,0 +1,3 @@
+[submodule "are-you-testing-your-observability"]
+	path = are-you-testing-your-observability
+	url = https://github.com/kakkoyun/are-you-testing-your-observability
