@@ -2,8 +2,10 @@
 
 ## [Are you testing your observability?](http://are-you-testing-your-observability.now.sh)
 
-### Events
+Slides 
+* [https://github.com/kakkoyun/are-you-testing-your-observability](https://github.com/kakkoyun/are-you-testing-your-observability)
 
+Events
 * [GoDays Berlin 2020](https://www.godays.io/conferenceday1)
   * [Recording](https://youtu.be/LU6D5cNeHks)
 * [FOSDEM 2020](https://fosdem.org/2020/schedule/event/testing_observability/)
