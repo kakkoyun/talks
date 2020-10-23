@@ -9,7 +9,7 @@ Events
 * [GoDays Berlin 2020](https://www.godays.io/conferenceday1)
   * [Recording](https://youtu.be/LU6D5cNeHks)
 * [FOSDEM 2020](https://fosdem.org/2020/schedule/event/testing_observability/)
-  * [Recording](https://video.fosdem.org/2020/UD2.120/testing_observability.mp4)
+  * [Recording](https://www.youtube.com/watch?v=-jF4nWfrY3w)
 
 
 ## [The Zen of Prometheus](https://gitpitch.com/kakkoyun/the-zen-of-prometheus/master?p=presentation#/)
@@ -29,4 +29,4 @@ Slides
 
 Events
 * [GopherCon Turkey 2020](https://gophercon.ist/en)
-  * [Recording](https://www.youtube.com/watch?v=yDNDRW64g9Y) Not released yet
+  * [Recording](https://www.youtube.com/watch?v=xkLyM1Gnaus)
