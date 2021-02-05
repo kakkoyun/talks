@@ -1,5 +1,15 @@
 # Talks
 
+
+## [Absorbing Thanos Infinite Powers for Multi-Cluster Telemetry](https://kccncna20.sched.com/event/ekHk/absorbing-thanos-infinite-powers-for-multi-cluster-telemetry-bartlomiej-plotka-kemal-akkoyun-red-hat-frederic-branczyk-independent)
+
+Slides
+* [Absorbing Thanos Infinite Powers for Multi-Cluster Telemetry](https://docs.google.com/presentation/d/1gMBQ7wLqAae45uGOcaYex-_9s675yzgexW705D7KM1Y/edit#slide=id.ga47ea1e9a6_0_13)
+
+Events
+* [KubeConNA 2020](https://kccncna20.sched.com/event/ekHk/absorbing-thanos-infinite-powers-for-multi-cluster-telemetry-bartlomiej-plotka-kemal-akkoyun-red-hat-frederic-branczyk-independent)
+	* [Recording](https://www.youtube.com/watch?v=6Nx2BFyr7qQ)
+ 
 ## [Are you testing your observability?](http://are-you-testing-your-observability.now.sh)
 
 Slides 
