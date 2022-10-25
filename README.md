@@ -1,5 +1,13 @@
 # Talks
 
+## [Achieving Zero-Instrumentation Monitoring with eBPF]([https://youtu.be/oWHQrlE2-G8](https://docs.google.com/presentation/d/1sMxVo6PVbKxiePgZNtt58xRsvysnFXdCeeVwqLLvwzM/edit?usp=sharing))
+
+Slides
+* [Achieving Zero-Instrumentation Monitoring with eBPF]([https://docs.google.com/presentation/d/1hKqxAC9aaWLPM4xwXyXuK5cp2LBAewOVqZ05qjLNnK8/edit?usp=sharing](https://docs.google.com/presentation/d/1sMxVo6PVbKxiePgZNtt58xRsvysnFXdCeeVwqLLvwzM/edit?usp=sharing))
+
+Events
+* [PrometheusDay North America 2022](https://prometheusdayna22.sched.com/event/1AsMR)
+  
 ## [eBPF? Safety First!](https://youtu.be/oWHQrlE2-G8)
 
 Slides
