@@ -1,5 +1,7 @@
 # Talks
 
+Public index of my given talks.
+
 ## [Achieving Zero-Instrumentation Monitoring with eBPF](https://docs.google.com/presentation/d/1sMxVo6PVbKxiePgZNtt58xRsvysnFXdCeeVwqLLvwzM/edit?usp=sharing)
 
 Slides
@@ -7,7 +9,7 @@ Slides
 
 Events
 * [PrometheusDay North America 2022](https://prometheusdayna22.sched.com/event/1AsMR)
-  
+
 ## [eBPF? Safety First!](https://youtu.be/oWHQrlE2-G8)
 
 Slides
