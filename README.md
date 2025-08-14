@@ -1,6 +1,13 @@
 # Talks
 
-Public index of my given talks.
+> [!NOTE]
+> Public index of my given talks.
+
+
+> [!WARNING]
+> More up-to-date information is in https://kakkoyun.me/categories/talks
+
+---
 
 ## [Achieving Zero-Instrumentation Monitoring with eBPF](https://docs.google.com/presentation/d/1sMxVo6PVbKxiePgZNtt58xRsvysnFXdCeeVwqLLvwzM/edit?usp=sharing)
 
